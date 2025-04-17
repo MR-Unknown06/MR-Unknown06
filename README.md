@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋I am Pranish Badgami
+Field of Study: Bachelor in Computing (B. Computing)
+Technical Skills:
+
+Programming in Java (BlueJ IDE)
+
+Web Development (HTML)
+
+Basic Computer Science Concepts
 
 <!--
 **MR-Unknown06/MR-Unknown06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
