@@ -4,9 +4,11 @@ Technical Skills:
 
 Programming in Java (BlueJ IDE)
 
-Web Development (HTML)
+Web Development (HTML,CSS)
 
 Basic Computer Science Concepts
+
+Progamming in JavaScript +
 
 <!--
 **MR-Unknown06/MR-Unknown06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
